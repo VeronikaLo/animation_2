@@ -34,7 +34,7 @@ class _FirstScreenState extends State<FirstScreen> with TickerProviderStateMixin
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("First Animation"),
+        title: const Text("Earth"),
         centerTitle: true,
       ),
       body: Container(
